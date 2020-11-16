@@ -12,9 +12,9 @@ The current folder contains files for implementing **VAE/beta-TCVAE, WGAN-GP, In
   (1) `vae.py`: VAE; 
   (2) `beta_tcvae.py`: beta-TCVAE. 
   (3) `wgangp.py`: WGAN-GP;
-  (4) `infowgangp.py`: InfoWGAN-GP
-  (5) `MichiGAN_mean.py`: MichiGAN on mean representations
-  (6) `MichiGAN_sample.py`: MichiGAN on sampled representations
+  (4) `infowgangp.py`: InfoWGAN-GP\
+  (5) `MichiGAN_mean.py`: MichiGAN on mean representations\
+  (6) `MichiGAN_sample.py`: MichiGAN on sampled representations\
   on the Tabula Muris heart dataset. The ipython notebooks also give the examples of training different deep generative models on Tabula Muris heart data. 
 
 3) Adam_prediction.py is the StableGAN implementation file on https://github.com/taki0112/StableGAN-Tensorflow for the GAN-based methods

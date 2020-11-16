@@ -9,10 +9,9 @@ The current folder contains files for implementing **VAE/beta-TCVAE, WGAN-GP, In
 
 1) `/data` is te folder containing the real scRNA-seq dataset of Tabula Muris heart data. 
 2) `/examples` is the folder for the experiments of 
-
-  (1) `vae.py`: VAE
-  (2) `beta_tcvae.py`: beta-TCVAE
-  (3) `wgangp.py`: WGAN-GP
+  (1) `vae.py`: VAE; 
+  (2) `beta_tcvae.py`: beta-TCVAE. 
+  (3) `wgangp.py`: WGAN-GP;
   (4) `infowgangp.py`: InfoWGAN-GP
   (5) `MichiGAN_mean.py`: MichiGAN on mean representations
   (6) `MichiGAN_sample.py`: MichiGAN on sampled representations

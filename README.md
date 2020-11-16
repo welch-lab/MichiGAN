@@ -3,13 +3,13 @@
 ## Predicting unobserved cell states from disentangled representations of single-cell data using generative adversarial networks
 
 The current folder contains files for implementing VAE/beta-TCVAE, WGAN-GP, InfoWGAN-GP, MichiGAN on single-cell RNA-seq data described in 
-"``Predicting unobserved cell states from disentangled representations of single-cell data using generative adversarial networks''" by Yu and Welch.
+`"Predicting unobserved cell states from disentangled representations of single-cell data using generative adversarial networks"` by Yu and Welch.
 
 # List of Files:
 
 1) /data is te folder containing the real scRNA-seq dataset of Tabula Muris heart data. 
 2) /examples is the folder for the experiments of 
-  (1) vae.py: VAE
+  (1) `vae.py`: VAE
 	(2) beta_tcvae.py: beta-TCVAE
 	(3) wgangp.py: WGAN-GP
 	(4) infowgangp.py: InfoWGAN-GP

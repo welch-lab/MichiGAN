@@ -31,5 +31,5 @@ The current folder contains files for implementing **VAE/beta-TCVAE, WGAN-GP, In
  (2) numpy: 1.16.3; 
  (3) pandas 0.25.3 
  (4) scanpy: 1.4.6
- (5) TensorFlow: 1.14.0 
+ (5) tensorflow: 1.14.0 
 ```

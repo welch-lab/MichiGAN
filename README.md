@@ -1,10 +1,9 @@
-# MichiGAN
-Learning disentangled representations of single-cell data for high-quality generation
+# MichiGAN: Learning disentangled representations of single-cell data for high-quality generation
 
-# Predicting unobserved cell states from disentangled representations of single-cell data using generative adversarial networks
+## Predicting unobserved cell states from disentangled representations of single-cell data using generative adversarial networks
 
 The current folder contains files for implementing VAE/beta-TCVAE, WGAN-GP, InfoWGAN-GP, MichiGAN on single-cell RNA-seq data described in 
-"Predicting unobserved cell states from disentangled representations of single-cell data using generative adversarial networks" by Yu and Welch.
+"``Predicting unobserved cell states from disentangled representations of single-cell data using generative adversarial networks''" by Yu and Welch.
 
 # List of Files:
 

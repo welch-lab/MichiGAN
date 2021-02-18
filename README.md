@@ -2,8 +2,8 @@
 
 ## Predicting unobserved cell states from disentangled representations of single-cell data using generative adversarial networks
 
-The current folder contains files for implementing **VAE/beta-TCVAE, WGAN-GP, InfoWGAN-GP, MichiGAN** on single-cell RNA-seq data described in 
-**"Predicting unobserved cell states from disentangled representations of single-cell data using generative adversarial networks"** by Yu and Welch (2020+).
+The current folder contains files for implementing **VAE/beta-TCVAE, WGAN-GP, InfoWGAN-GP, and MichiGAN** on single-cell RNA-seq data. See our preprint for details:  
+[Predicting unobserved cell states from disentangled representations of single-cell data using generative adversarial networks](https://www.biorxiv.org/content/10.1101/2021.01.15.426872v1.full.pdf) (Yu and Welch, 2020+).
 
 ## List of Files:
 

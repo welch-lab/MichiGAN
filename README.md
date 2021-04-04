@@ -1,14 +1,14 @@
 # MichiGAN: Learning disentangled representations of single-cell data for high-quality generation
 
-## Predicting unobserved cell states from disentangled representations of single-cell data using generative adversarial networks
+## Sampling from disentangled representations of single-cell data using generative adversarial networks
 
-The current folder contains files for implementing **VAE/beta-TCVAE, WGAN-GP, InfoWGAN-GP, and MichiGAN** on single-cell RNA-seq data. See our preprint for details:  
-[Predicting unobserved cell states from disentangled representations of single-cell data using generative adversarial networks](https://www.biorxiv.org/content/10.1101/2021.01.15.426872v1) (Yu and Welch, 2020+).
+The current folder contains files for implementing **PCA, GMM, VAE/beta-TCVAE, WGAN-GP, InfoWGAN-GP, ssInfoWGAN-GP, CWGAN-GP and MichiGAN** on single-cell RNA-seq data. See our preprint for details:  
+[Sampling from disentangled representations of single-cell data using generative adversarial networks](https://www.biorxiv.org/content/10.1101/2021.01.15.426872v1) (Yu and Welch, 2021+). We have a [presentation video](https://youtu.be/5tsccPMPzLQ) for [Learning Meaningful Representations of Life Workshop](https://www.lmrl.org/) at NeurIPS 2020, where we named our framework as `DRGAN` and changed the name to `MichiGAN` afterwards.   
 
 ## List of Files:
 
 1) `/data` is the folder containing the real scRNA-seq dataset of Tabula Muris heart data. Users can download the SCANPY-processed data on https://www.dropbox.com/sh/xseb0u6p01te3vr/AACuskVfswUFn5MroEFrqI-Xa?dl=0. 
-2) `/examples` is the folder for the experiments of\
+2) `/FunctionProgramExamples/examples` is the folder for the experiments of\
   (1) `vae.py`: VAE; \
   (2) `beta_tcvae.py`: beta-TCVAE;\
   (3) `wgangp.py`: WGAN-GP;\

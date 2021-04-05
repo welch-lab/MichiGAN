@@ -18,9 +18,9 @@ The current folder contains files for implementing **PCA, GMM, VAE/beta-TCVAE, W
   on the Tabula Muris heart dataset.
   The ipython notebooks `example_**.ipynb` also give examples of how to train different deep generative models on Tabula Muris heart data. 
 
-3) `Adam_prediction.py` is the StableGAN implementation file on https://github.com/taki0112/StableGAN-Tensorflow for the GAN-based methods
-4) `lib.py` contains the Python and TensorFlow functions
-3) `nets.py` has the network architectures for different deep generative models 
+3) `/FunctionProgramExamples/Adam_prediction.py` is the StableGAN implementation file on https://github.com/taki0112/StableGAN-Tensorflow for the GAN-based methods
+4) `/FunctionProgramExamples/lib.py` contains the Python and TensorFlow functions
+3) `/FunctionProgramExamples/nets.py` has the network architectures for different deep generative models 
 
 ## Notes:  
 

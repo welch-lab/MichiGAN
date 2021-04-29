@@ -33,3 +33,5 @@ The current folder contains files for implementing **PCA, GMM, VAE/beta-TCVAE, W
  (4) scanpy: 1.4.6
  (5) tensorflow: 1.14.0 
 ```
+
+[![DOI](https://zenodo.org/badge/312381072.svg)](https://zenodo.org/badge/latestdoi/312381072)

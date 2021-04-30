@@ -3,7 +3,7 @@
 ## Sampling from disentangled representations of single-cell data using generative adversarial networks
 
 The current folder contains files for implementing **PCA, GMM, VAE/beta-TCVAE, WGAN-GP, InfoWGAN-GP, ssInfoWGAN-GP, CWGAN-GP and MichiGAN** on single-cell RNA-seq data. See our preprint for details:  
-[Sampling from disentangled representations of single-cell data using generative adversarial networks](https://www.biorxiv.org/content/10.1101/2021.01.15.426872v1) (Yu and Welch, 2021+). We have a [presentation video](https://youtu.be/5tsccPMPzLQ) for [Learning Meaningful Representations of Life Workshop](https://www.lmrl.org/) at NeurIPS 2020, where we named our framework as `DRGAN` and changed the name to `MichiGAN` afterwards.   
+[Sampling from disentangled representations of single-cell data using generative adversarial networks](https://www.biorxiv.org/content/10.1101/2021.01.15.426872v1) (Yu and Welch, 2021+). We have a [presentation video](https://youtu.be/5tsccPMPzLQ) for [Learning Meaningful Representations of Life Workshop](https://www.lmrl.org/) at NeurIPS 2020, where we referred to our framework as `DRGAN`. We decided to change the name to `MichiGAN` afterwards.   
 
 ## List of Files:
 

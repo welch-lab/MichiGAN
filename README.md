@@ -1,4 +1,4 @@
-# MichiGAN: Learning disentangled representations of single-cell data for high-quality generation
+# MichiGAN: sampling from disentangled representations of single-cell data using generative adversarial networks
 
 ## Sampling from disentangled representations of single-cell data using generative adversarial networks
 

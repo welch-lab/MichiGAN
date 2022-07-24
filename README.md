@@ -35,3 +35,22 @@ The current folder contains files for implementing **PCA, GMM, VAE/beta-TCVAE, W
 ```
 
 [![DOI](https://zenodo.org/badge/312381072.svg)](https://zenodo.org/badge/latestdoi/312381072)
+
+
+# Reference
+
+Please consider citing
+
+```
+@article{yu2021michigan,
+  title={MichiGAN: sampling from disentangled representations of single-cell data using generative adversarial networks},
+  author={Yu, Hengshi and Welch, Joshua D},
+  journal={Genome biology},
+  volume={22},
+  number={1},
+  pages={1--26},
+  year={2021},
+  publisher={BioMed Central}
+}
+```
+We appreciate your interest in our work. 
